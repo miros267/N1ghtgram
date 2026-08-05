@@ -216,11 +216,11 @@
     <string name="Page5Title">Мощный</string>
     <string name="Page6Title">Облачный</string>
     <string name="Page1Message">Самый **быстрый** мессенджер в мире.\n**Бесплатный** и **безопасный**.</string>
-    <string name="Page2Message">**Telegram** доставляет сообщения быстрее\nлюбого другого приложения.</string>
-    <string name="Page3Message">**Telegram** предоставляет бесплатное безлимитное облачное хранилище для чатов и медиа.\n</string>
-    <string name="Page4Message">**Telegram** защищает Вашу переписку от злоумышленников.</string>
-    <string name="Page5Message">**Telegram** не ограничивает размер\n Ваших медиафайлов и чатов.</string>
-    <string name="Page6Message">В **Telegram** можно переписываться с любого количества устройств.</string>
+    <string name="Page2Message">**Nightgram** доставляет сообщения быстрее\nлюбого другого приложения.</string>
+    <string name="Page3Message">**Nightgram** предоставляет бесплатное безлимитное облачное хранилище для чатов и медиа.\n</string>
+    <string name="Page4Message">**Nightgram** защищает Вашу переписку от злоумышленников.</string>
+    <string name="Page5Message">**Nightgram** не ограничивает размер\n Ваших медиафайлов и чатов.</string>
+    <string name="Page6Message">В **Nightgram** можно переписываться с любого количества устройств.</string>
     <string name="StartMessaging">Начать общение</string>
     <!--date formatters-->
     <string name="formatterBoostExpired">dd MMM yyyy</string>
