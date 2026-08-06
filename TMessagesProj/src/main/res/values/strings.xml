@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="AppName">Nightgram</string>
-    <string name="AppNameBeta">Telegram Beta</string>
+    <string name="AppNameBeta">Nightgram Beta</string>
     <string name="LanguageName">English</string>
     <string name="English">English</string>
     <string name="LanguageNameInEnglish">English</string>
@@ -42,7 +42,7 @@
     <string name="OpenFragment">Open Fragment</string>
     <string name="SentCallCode">We\'re calling your phone **%1$s**.\n\nDon\'t accept the call, Telegram will process everything automatically.</string>
     <string name="SentCallOnly">Calling your phone **%1$s** to dictate the code.</string>
-    <string name="CallText">Telegram will call you in %1$d:%2$02d</string>
+    <string name="CallText">Nightgram will call you in %1$d:%2$02d</string>
     <string name="SmsText">Sending you an SMS in %1$d:%2$02d</string>
     <string name="Calling">Calling you...</string>
     <string name="SendingSms">Sending SMS...</string>
@@ -1901,10 +1901,10 @@
     <string name="ALongTimeAgo">last seen a long time ago</string>
     <string name="NewMessageTitle">New Message</string>
     <string name="InviteFriendsHelp">Select contacts to invite them to Telegram</string>
-    <string name="InviteToTelegram">INVITE TO TELEGRAM</string>
-    <string name="ShareTelegram2">Share Telegram</string>
+    <string name="InviteToTelegram">INVITE TO NIGHTGRAM</string>
+    <string name="ShareTelegram2">Share Nightgram</string>
     <string name="UpdateContactsTitle">Update contacts?</string>
-    <string name="UpdateContactsMessage">Telegram has detected many unsynced contacts, would you like to sync them now? Choose \'OK\' if you\'re using your own device, SIM card and Google account.</string>
+    <string name="UpdateContactsMessage">Nightgram has detected many unsynced contacts, would you like to sync them now? Choose \'OK\' if you\'re using your own device, SIM card and Google account.</string>
     <string name="SortedByName">Sorted by name</string>
     <string name="SortedByLastSeen">Sorted by last seen time</string>
     <string name="AddContactByPhone">Add %1$s</string>
